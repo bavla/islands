@@ -1,6 +1,11 @@
 # islands
 Support for cores, cuts and islands procedures.
 
+Vladimir Batagelj, Andrej Mrvar, Matjaž Zaveršnik:
+Partitioning Approach to Visualization of Large Networks.
+Graph Drawing '99, Castle Stirin, CZ, 15-19. September 1999.
+http://vlado.fmf.uni-lj.si/pub/networks/doc/part/gd99.htm
+
 Vladimir Batagelj, Matjaž Zaveršnik:
 Fast algorithms for determining (generalized) core groups in social networks.
 Advances in Data Analysis and Classification, July 2011, Volume 5, Issue 2, pp 129–145.
