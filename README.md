@@ -4,7 +4,8 @@ Support for cores, cuts and islands procedures.
 Vladimir Batagelj, Andrej Mrvar, Matjaž Zaveršnik:
 Partitioning Approach to Visualization of Large Networks.
 Graph Drawing '99, Castle Stirin, CZ, 15-19. September 1999.
-http://vlado.fmf.uni-lj.si/pub/networks/doc/part/gd99.htm
+http://vlado.fmf.uni-lj.si/pub/networks/doc/part/gd99.htm ;
+https://link.springer.com/chapter/10.1007/3-540-46648-7_9
 
 Vladimir Batagelj, Matjaž Zaveršnik:
 Fast algorithms for determining (generalized) core groups in social networks.
